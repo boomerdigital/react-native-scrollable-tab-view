@@ -17,7 +17,7 @@ const {
 const ViewPagerAndroid = require('react-native-pager-view');
 const TimerMixin = require('react-timer-mixin');
 // const ViewPager = require('@react-native-community/viewpager');
-const ViewPager = require('eact-native-pager-view');
+const ViewPager = require('react-native-pager-view');
 
 const SceneComponent = require('./SceneComponent');
 const DefaultTabBar = require('./DefaultTabBar');
